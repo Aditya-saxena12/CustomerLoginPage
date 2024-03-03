@@ -1,7 +1,6 @@
 # CustomerLoginPage
+Spring Secured Login Page* (Actual Name) : Using Spring boot and java, created a login page through which we can enter details of customer and store them in sql using JDBC connectivity.
 
-It is a login page of Customer CRUD operation. 
+JDBC: Used to connect sql to java
 
 In this, we can update, delete, read and create the information.
-
-It is made with spring framework (SPRING BOOT), java in STS editor and connected with database through SQL.
